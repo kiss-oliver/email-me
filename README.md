@@ -1,6 +1,7 @@
 # email-me
 Use this public key to send me encrypted emails to protonmail
 
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: OpenPGP.js v4.10.10
 Comment: https://openpgpjs.org
@@ -36,3 +37,4 @@ gNDZ4vOZjA+zFGezNv3hxIgWzfFbDVzKotYAuJCv+xEOiQGlVNkfptCUSPRU
 zDtOMTdN
 =4RrZ
 -----END PGP PUBLIC KEY BLOCK-----
+```
